@@ -2,7 +2,7 @@
 
 Agile is my passion and my trade.  Being an experienced Software Development
 Manager, Certified Scrum Master and Product Owner I decided to learn
-more about coding for the web with Makers Academy to make myself even more
+about coding for the web with Makers Academy to make myself even more
 valuable to software development teams.
 
 I have experience of app development projects for iOS and android,
